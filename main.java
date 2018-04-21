@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class main {
+public class susil {
 
     public static void main(String srg[]){
         Scanner sc=new Scanner(System.in);
